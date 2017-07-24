@@ -25,6 +25,7 @@
         <script src="${stc}/lib/respond/respond.min.js"></script>
         <![endif]-->
         <script src="${stc}/lib/jquery/dist/jquery.min.js"></script>
+        <script src="${stc}/lib/jquery-ui/jquery-ui.min.js"></script>
         <script src="${stc}/lib/bootstrap/dist/js/bootstrap.min.js"></script>
         <script src="${stc}/lib/jquery-slimscroll/jquery.slimscroll.min.js"></script>
         <script src="${stc}/lib/fastclick/lib/fastclick.js"></script>
