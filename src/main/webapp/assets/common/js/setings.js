@@ -98,6 +98,7 @@ $(function () {
         });
 
         $('[data-enable="expandOnHover"]').on('click', function () {
+            $(this).attr('disabled', true);
             $pushMenu.expandOnHover();
             if (!$('body').hasClass('sidebar-collapse')){
                 $('[data-layout="sidebar-collapse"]').click();
