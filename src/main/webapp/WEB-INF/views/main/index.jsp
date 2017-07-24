@@ -7,32 +7,32 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>主页</title>
-        <link rel="stylesheet" href="${stc}/lib/morris.js/morris.css">
-        <link rel="stylesheet" href="${stc}/lib/jvectormap/jquery-jvectormap.css">
-        <link rel="stylesheet" href="${stc}/lib/bootstrap-datepicker/dist/css/bootstrap-datepicker.min.css">
-        <link rel="stylesheet" href="${stc}/lib/bootstrap-daterangepicker/daterangepicker.css">
-        <link rel="stylesheet" href="${stc}/lib/adminlte/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css">
+        <link rel="stylesheet" href="${stc}/lib/admin/morris.js/morris.css">
+        <link rel="stylesheet" href="${stc}/lib/admin/jvectormap/jquery-jvectormap.css">
+        <link rel="stylesheet" href="${stc}/lib/admin/bootstrap-datepicker/dist/css/bootstrap-datepicker.min.css">
+        <link rel="stylesheet" href="${stc}/lib/admin/bootstrap-daterangepicker/daterangepicker.css">
+        <link rel="stylesheet" href="${stc}/lib/admin/adminlte/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css">
         
         <!-- Morris.js charts -->
-        <script src="${stc}/lib/raphael/raphael.min.js"></script>
-        <script src="${stc}/lib/morris.js/morris.min.js"></script>
+        <script src="${stc}/lib/admin/raphael/raphael.min.js"></script>
+        <script src="${stc}/lib/admin/morris.js/morris.min.js"></script>
         <!-- Sparkline -->
-        <script src="${stc}/lib/jquery-sparkline/dist/jquery.sparkline.min.js"></script>
+        <script src="${stc}/lib/admin/jquery-sparkline/dist/jquery.sparkline.min.js"></script>
         <!-- jvectormap -->
-        <script src="${stc}/lib/adminlte/plugins/jvectormap/jquery-jvectormap-1.2.2.min.js"></script>
-        <script src="${stc}/lib/adminlte/plugins/jvectormap/jquery-jvectormap-world-mill-en.js"></script>
+        <script src="${stc}/lib/admin/adminlte/plugins/jvectormap/jquery-jvectormap-1.2.2.min.js"></script>
+        <script src="${stc}/lib/admin/adminlte/plugins/jvectormap/jquery-jvectormap-world-mill-en.js"></script>
         <!-- jQuery Knob Chart -->
-        <script src="${stc}/lib/jquery-knob/dist/jquery.knob.min.js"></script>
+        <script src="${stc}/lib/admin/jquery-knob/dist/jquery.knob.min.js"></script>
         <!-- daterangepicker -->
-        <script src="${stc}/lib/moment/min/moment.min.js"></script>
-        <script src="${stc}/lib/bootstrap-daterangepicker/daterangepicker.js"></script>
+        <script src="${stc}/lib/admin/moment/min/moment.min.js"></script>
+        <script src="${stc}/lib/admin/bootstrap-daterangepicker/daterangepicker.js"></script>
         <!-- datepicker -->
-        <script src="${stc}/lib/bootstrap-datepicker/dist/js/bootstrap-datepicker.min.js"></script>
+        <script src="${stc}/lib/admin/bootstrap-datepicker/dist/js/bootstrap-datepicker.min.js"></script>
         <!-- Bootstrap WYSIHTML5 -->
-        <script src="${stc}/lib/adminlte/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js"></script>
+        <script src="${stc}/lib/admin/adminlte/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js"></script>
         <!-- Slimscroll -->
-        <script src="${stc}/lib/jquery-slimscroll/jquery.slimscroll.min.js"></script>
-        <script src="${stc}/lib/adminlte/dist/js/pages/dashboard.js"></script>
+        <script src="${stc}/lib/admin/jquery-slimscroll/jquery.slimscroll.min.js"></script>
+        <script src="${stc}/lib/admin/adminlte/dist/js/pages/dashboard.js"></script>
     </head>
     <body>
         <!-- Content Wrapper. Contains page content -->
@@ -153,7 +153,7 @@
                             <div class="box-body chat" id="chat-box">
                                 <!-- chat item -->
                                 <div class="item">
-                                    <img src="${stc}/lib/adminlte/dist/img/user4-128x128.jpg" alt="user image" class="online">
+                                    <img src="${stc}/lib/admin/adminlte/dist/img/user4-128x128.jpg" alt="user image" class="online">
 
                                     <p class="message">
                                         <a href="#" class="name">
@@ -180,7 +180,7 @@
                                 <!-- /.item -->
                                 <!-- chat item -->
                                 <div class="item">
-                                    <img src="${stc}/lib/adminlte/dist/img/user3-128x128.jpg" alt="user image" class="offline">
+                                    <img src="${stc}/lib/admin/adminlte/dist/img/user3-128x128.jpg" alt="user image" class="offline">
 
                                     <p class="message">
                                         <a href="#" class="name">
@@ -195,7 +195,7 @@
                                 <!-- /.item -->
                                 <!-- chat item -->
                                 <div class="item">
-                                    <img src="${stc}/lib/adminlte/dist/img/user2-160x160.jpg" alt="user image" class="offline">
+                                    <img src="${stc}/lib/admin/adminlte/dist/img/user2-160x160.jpg" alt="user image" class="offline">
 
                                     <p class="message">
                                         <a href="#" class="name">
