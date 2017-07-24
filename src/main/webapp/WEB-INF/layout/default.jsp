@@ -316,39 +316,39 @@
                           <h4 class="control-sidebar-heading">布局设置</h4>
                           <div class="form-group">
                                 <label class="control-sidebar-subheading">
-                                    <input type="checkbox" data-layout="fixed" class="pull-right"> Fixed layout
+                                    <input type="checkbox" data-layout="fixed" class="pull-right">固定布局
                                 </label>
-                                <p>Activate the fixed layout. You can't use fixed and boxed layouts together</p>
+                                <p>激活固定布局。不能同时使用固定和自适应布局。</p>
                             </div>
                             <div class="form-group">
                                 <label class="control-sidebar-subheading">
-                                    <input type="checkbox" data-layout="layout-boxed" class="pull-right"> Boxed Layout
+                                    <input type="checkbox" data-layout="layout-boxed" class="pull-right">自适应布局
                                 </label>
-                                <p>Activate the boxed layout</p>
+                                <p>激活自适应布局</p>
                             </div>
                             <div class="form-group">
                                 <label class="control-sidebar-subheading">
-                                    <input type="checkbox" data-layout="sidebar-collapse" class="pull-right"> Toggle Sidebar
+                                    <input type="checkbox" data-layout="sidebar-collapse" class="pull-right">切换左侧边栏
                                 </label>
-                                <p>Toggle the left sidebar's state (open or collapse)</p>
+                                <p>切换左侧边栏的状态（打开或折叠）</p>
                             </div>
                             <div class="form-group">
                                 <label class="control-sidebar-subheading">
-                                    <input type="checkbox" data-enable="expandOnHover" class="pull-right"> Sidebar Expand on Hover
+                                    <input type="checkbox" data-enable="expandOnHover" class="pull-right">侧边栏展开悬停
                                 </label>
-                                <p>Let the sidebar mini expand on hover</p>
+                                <p>让侧边栏微扩展悬停</p>
                             </div>
                             <div class="form-group">
                                 <label class="control-sidebar-subheading">
-                                    <input type="checkbox" data-controlsidebar="control-sidebar-open" class="pull-right"> Toggle Right Sidebar Slide
+                                    <input type="checkbox" data-controlsidebar="control-sidebar-open" class="pull-right">切换右侧边栏
                                 </label>
-                                <p>Toggle between slide over content and push content effects</p>
+                                <p>切换右侧边栏切换</p>
                             </div>
                             <div class="form-group">
                                 <label class="control-sidebar-subheading">
-                                    <input type="checkbox" data-sidebarskin="toggle" class="pull-right"> Toggle Right Sidebar Skin
+                                    <input type="checkbox" data-sidebarskin="toggle" class="pull-right">切换右边栏皮肤
                                 </label>
-                                <p>Toggle between dark and light skins for the right sidebar</p>
+                                <p>切换右边栏皮肤黑或者白</p>
                             </div>
                             <h4 class="control-sidebar-heading">皮肤设置</h4>
                             <ul class="list-unstyled clearfix">
@@ -363,7 +363,7 @@
                                             <span style="display:block; width: 80%; float: left; height: 20px; background: #f4f5f7"></span>
                                         </div>
                                     </a>
-                                    <p class="text-center no-margin">Blue</p>
+                                    <p class="text-center no-margin">蓝色</p>
                                 </li>
                                 <li style="float:left; width: 33.33333%; padding: 5px;">                                  
                                     <a href="javascript:void(0)" data-skin="skin-black" style="display: block; box-shadow: 0 0 3px rgba(0,0,0,0.4)" class="clearfix full-opacity-hover">                                      
@@ -376,7 +376,7 @@
                                             <span style="display:block; width: 80%; float: left; height: 20px; background: #f4f5f7"></span>
                                         </div>
                                     </a>
-                                    <p class="text-center no-margin">Black</p>
+                                    <p class="text-center no-margin">黑色</p>
                                 </li>
                                 <li style="float:left; width: 33.33333%; padding: 5px;">
                                     <a href="javascript:void(0)" data-skin="skin-purple" style="display: block; box-shadow: 0 0 3px rgba(0,0,0,0.4)" class="clearfix full-opacity-hover">
@@ -389,7 +389,7 @@
                                             <span style="display:block; width: 80%; float: left; height: 20px; background: #f4f5f7"></span>
                                         </div>
                                     </a>
-                                    <p class="text-center no-margin">Purple</p>
+                                    <p class="text-center no-margin">紫色</p>
                                 </li>
                                 <li style="float:left; width: 33.33333%; padding: 5px;">
                                     <a href="javascript:void(0)" data-skin="skin-green" style="display: block; box-shadow: 0 0 3px rgba(0,0,0,0.4)" class="clearfix full-opacity-hover">
@@ -402,7 +402,7 @@
                                             <span style="display:block; width: 80%; float: left; height: 20px; background: #f4f5f7"></span>
                                         </div>
                                     </a>
-                                    <p class="text-center no-margin">Green</p>
+                                    <p class="text-center no-margin">绿色</p>
                                 </li>
                                 <li style="float:left; width: 33.33333%; padding: 5px;">
                                     <a href="javascript:void(0)" data-skin="skin-red" style="display: block; box-shadow: 0 0 3px rgba(0,0,0,0.4)" class="clearfix full-opacity-hover">
@@ -415,7 +415,7 @@
                                             <span style="display:block; width: 80%; float: left; height: 20px; background: #f4f5f7"></span>
                                         </div>
                                     </a>
-                                    <p class="text-center no-margin">Red</p>
+                                    <p class="text-center no-margin">红色</p>
                                 </li>
                                 <li style="float:left; width: 33.33333%; padding: 5px;">
                                     <a href="javascript:void(0)" data-skin="skin-yellow" style="display: block; box-shadow: 0 0 3px rgba(0,0,0,0.4)" class="clearfix full-opacity-hover">
@@ -428,7 +428,7 @@
                                             <span style="display:block; width: 80%; float: left; height: 20px; background: #f4f5f7"></span>
                                         </div>
                                     </a>
-                                    <p class="text-center no-margin">Yellow</p>
+                                    <p class="text-center no-margin">黄色</p>
                                 </li>
                                 <li style="float:left; width: 33.33333%; padding: 5px;">
                                     <a href="javascript:void(0)" data-skin="skin-blue-light" style="display: block; box-shadow: 0 0 3px rgba(0,0,0,0.4)" class="clearfix full-opacity-hover">
@@ -443,7 +443,7 @@
                                             </span>
                                         </div>
                                     </a>
-                                    <p class="text-center no-margin" style="font-size: 12px">Blue Light</p>
+                                    <p class="text-center no-margin" style="font-size: 12px">蓝白色</p>
                                 </li>
                                 <li style="float:left; width: 33.33333%; padding: 5px;">
                                     <a href="javascript:void(0)" data-skin="skin-black-light" style="display: block; box-shadow: 0 0 3px rgba(0,0,0,0.4)" class="clearfix full-opacity-hover">
@@ -456,7 +456,7 @@
                                             <span style="display:block; width: 80%; float: left; height: 20px; background: #f4f5f7"></span>
                                         </div>
                                     </a>
-                                    <p class="text-center no-margin" style="font-size: 12px">Black Light</p>
+                                    <p class="text-center no-margin" style="font-size: 12px">黑白色</p>
                                 </li>
                                 <li style="float:left; width: 33.33333%; padding: 5px;">
                                     <a href="javascript:void(0)" data-skin="skin-purple-light" style="display: block; box-shadow: 0 0 3px rgba(0,0,0,0.4)" class="clearfix full-opacity-hover">
@@ -469,7 +469,7 @@
                                             <span style="display:block; width: 80%; float: left; height: 20px; background: #f4f5f7"></span>
                                         </div>
                                     </a>
-                                    <p class="text-center no-margin" style="font-size: 12px">Purple Light</p>
+                                    <p class="text-center no-margin" style="font-size: 12px">紫白色</p>
                                 </li>
                                 <li style="float:left; width: 33.33333%; padding: 5px;">
                                     <a href="javascript:void(0)" data-skin="skin-green-light" style="display: block; box-shadow: 0 0 3px rgba(0,0,0,0.4)" class="clearfix full-opacity-hover">
@@ -482,7 +482,7 @@
                                             <span style="display:block; width: 80%; float: left; height: 20px; background: #f4f5f7"></span>
                                         </div>
                                     </a>
-                                    <p class="text-center no-margin" style="font-size: 12px">Green Light</p>
+                                    <p class="text-center no-margin" style="font-size: 12px">绿白色</p>
                                 </li>
                                 <li style="float:left; width: 33.33333%; padding: 5px;">
                                     <a href="javascript:void(0)" data-skin="skin-red-light" style="display: block; box-shadow: 0 0 3px rgba(0,0,0,0.4)" class="clearfix full-opacity-hover">
@@ -495,7 +495,7 @@
                                             <span style="display:block; width: 80%; float: left; height: 20px; background: #f4f5f7"></span>
                                         </div>
                                     </a>
-                                    <p class="text-center no-margin" style="font-size: 12px">Red Light</p>
+                                    <p class="text-center no-margin" style="font-size: 12px">红白色</p>
                                 </li>
                                 <li style="float:left; width: 33.33333%; padding: 5px;">
                                     <a href="javascript:void(0)" data-skin="skin-yellow-light" style="display: block; box-shadow: 0 0 3px rgba(0,0,0,0.4)" class="clearfix full-opacity-hover">
@@ -508,7 +508,7 @@
                                             <span style="display:block; width: 80%; float: left; height: 20px; background: #f4f5f7"></span>
                                         </div>
                                     </a>
-                                    <p class="text-center no-margin" style="font-size: 12px">Yellow Light</p>
+                                    <p class="text-center no-margin" style="font-size: 12px">黄白色</p>
                                 </li>
                             </ul>
                      </div>
