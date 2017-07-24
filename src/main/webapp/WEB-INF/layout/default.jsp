@@ -321,9 +321,9 @@
                             </div>
                             <div class="form-group">
                                 <label class="control-sidebar-subheading">
-                                    <input type="checkbox" data-enable="expandOnHover" class="pull-right">侧边栏展开悬停
+                                    <input type="checkbox" data-enable="expandOnHover" class="pull-right">左侧边栏展开悬停
                                 </label>
-                                <p>让侧边栏微扩展悬停</p>
+                                <p>让左侧边栏微扩展悬停</p>
                             </div>
                             <div class="form-group">
                                 <label class="control-sidebar-subheading">
