@@ -107,17 +107,13 @@
                     <!-- sidebar menu: : style can be found in sidebar.less -->
                     <ul class="sidebar-menu" data-widget="tree">
                         <li class="header">菜单</li>
-                        <li class="treeview">
-                            <a href="#">
-                                <i class="fa fa-dashboard"></i> <span>Dashboard</span>
-                                <span class="pull-right-container">
+                        <li class="treeview active">
+                            <a href="${ctx}/web/main/index">
+                                <i class="fa fa-dashboard"></i> <span>控制台</span>
+<!--                                <span class="pull-right-container">
                                     <i class="fa fa-angle-left pull-right"></i>
-                                </span>
+                                </span>-->
                             </a>
-                            <ul class="treeview-menu">
-                                <li><a href="../../index.html"><i class="fa fa-circle-o"></i> Dashboard v1</a></li>
-                                <li><a href="../../index2.html"><i class="fa fa-circle-o"></i> Dashboard v2</a></li>
-                            </ul>
                         </li>
                         <li class="treeview">
                             <a href="#">
@@ -218,7 +214,7 @@
                                 </span>
                             </a>
                         </li>
-                        <li class="treeview active">
+                        <li class="treeview">
                             <a href="#">
                                 <i class="fa fa-folder"></i> <span>Examples</span>
                                 <span class="pull-right-container">
