@@ -12,24 +12,24 @@
         <meta http-equiv="Pragma" content="no-cache" />
         <meta http-equiv="Expires" content="0" />
         <title><sitemesh:write property='title' /></title>
-        <link rel="stylesheet" href="${stc}/lib/bootstrap/dist/css/bootstrap.min.css"/>
-        <link rel="stylesheet" href="${stc}/lib/font-awesome/css/font-awesome.min.css"/>
-        <link rel="stylesheet" href="${stc}/lib/Ionicons/css/ionicons.min.css"/>
-        <link rel="stylesheet" href="${stc}/lib/adminlte/dist/css/AdminLTE.min.css"/>
-        <link rel="stylesheet" href="${stc}/lib/adminlte/dist/css/skins/_all-skins.min.css"/>
+        <link rel="stylesheet" href="${stc}/lib/admin/bootstrap/dist/css/bootstrap.min.css"/>
+        <link rel="stylesheet" href="${stc}/lib/admin/font-awesome/css/font-awesome.min.css"/>
+        <link rel="stylesheet" href="${stc}/lib/admin/Ionicons/css/ionicons.min.css"/>
+        <link rel="stylesheet" href="${stc}/lib/admin/adminlte/dist/css/AdminLTE.min.css"/>
+        <link rel="stylesheet" href="${stc}/lib/admin/adminlte/dist/css/skins/_all-skins.min.css"/>
         <!-- Google Font -->
-        <link rel="stylesheet" href="${stc}/lib/googlefont/googlefont.css"/>
+        <link rel="stylesheet" href="${stc}/lib/admin/googlefont/googlefont.css"/>
 
         <!--[if lt IE 9]>
-        <script src="${stc}/lib/html5shiv/html5shiv.min.js"></script>
-        <script src="${stc}/lib/respond/respond.min.js"></script>
+        <script src="${stc}/lib/admin/html5shiv/html5shiv.min.js"></script>
+        <script src="${stc}/lib/admin/respond/respond.min.js"></script>
         <![endif]-->
-        <script src="${stc}/lib/jquery/dist/jquery.min.js"></script>
-        <script src="${stc}/lib/jquery-ui/jquery-ui.min.js"></script>
-        <script src="${stc}/lib/bootstrap/dist/js/bootstrap.min.js"></script>
-        <script src="${stc}/lib/jquery-slimscroll/jquery.slimscroll.min.js"></script>
-        <script src="${stc}/lib/fastclick/lib/fastclick.js"></script>
-        <script src="${stc}/lib/adminlte/dist/js/adminlte.min.js"></script>
+        <script src="${stc}/lib/admin/jquery/dist/jquery.min.js"></script>
+        <script src="${stc}/lib/admin/jquery-ui/jquery-ui.min.js"></script>
+        <script src="${stc}/lib/admin/bootstrap/dist/js/bootstrap.min.js"></script>
+        <script src="${stc}/lib/admin/jquery-slimscroll/jquery.slimscroll.min.js"></script>
+        <script src="${stc}/lib/admin/fastclick/lib/fastclick.js"></script>
+        <script src="${stc}/lib/admin/adminlte/dist/js/adminlte.min.js"></script>
         <script src="${stc}/common/js/setings.js"></script>
         <script type="text/javascript">
             var SYS = {
@@ -63,13 +63,13 @@
                             <!-- User Account: style can be found in dropdown.less -->
                             <li class="dropdown user user-menu">
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                                    <img src="${stc}/lib/adminlte/dist/img/user2-160x160.jpg" class="user-image" alt="User Image">
+                                    <img src="${stc}/lib/admin/adminlte/dist/img/user2-160x160.jpg" class="user-image" alt="User Image">
                                     <span class="hidden-xs">Alexander Pierce</span>
                                 </a>
                                 <ul class="dropdown-menu">
                                     <!-- User image -->
                                     <li class="user-header">
-                                        <img src="${stc}/lib/adminlte/dist/img/user2-160x160.jpg" class="img-circle" alt="User Image">
+                                        <img src="${stc}/lib/admin/adminlte/dist/img/user2-160x160.jpg" class="img-circle" alt="User Image">
 
                                         <p>
                                             Alexander Pierce - Web Developer
