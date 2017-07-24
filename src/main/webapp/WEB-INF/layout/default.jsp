@@ -30,7 +30,7 @@
         <script src="${stc}/lib/jquery-slimscroll/jquery.slimscroll.min.js"></script>
         <script src="${stc}/lib/fastclick/lib/fastclick.js"></script>
         <script src="${stc}/lib/adminlte/dist/js/adminlte.min.js"></script>
-        <!--<script src="${stc}/lib/adminlte/dist/js/demo.js"></script>-->
+        <script src="${stc}/common/js/setings.js"></script>
         <script type="text/javascript">
             var SYS = {
                 ctx: '${ctx}',
