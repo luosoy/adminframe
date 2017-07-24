@@ -17,6 +17,11 @@
         <link rel="stylesheet" href="${stc}/lib/Ionicons/css/ionicons.min.css"/>
         <link rel="stylesheet" href="${stc}/lib/adminlte/dist/css/AdminLTE.min.css"/>
         <link rel="stylesheet" href="${stc}/lib/adminlte/dist/css/skins/_all-skins.min.css"/>
+        <link rel="stylesheet" href="${stc}/lib/morris.js/morris.css">
+        <link rel="stylesheet" href="${stc}/lib/jvectormap/jquery-jvectormap.css">
+        <link rel="stylesheet" href="${stc}/lib/bootstrap-datepicker/dist/css/bootstrap-datepicker.min.css">
+        <link rel="stylesheet" href="${stc}/lib/bootstrap-daterangepicker/daterangepicker.css">
+        <link rel="stylesheet" href="${stc}/lib/adminlte/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css">
         <!-- Google Font -->
         <link rel="stylesheet" href="${stc}/lib/googlefont/googlefont.css"/>
 
