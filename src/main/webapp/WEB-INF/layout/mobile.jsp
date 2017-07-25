@@ -12,7 +12,7 @@
         <meta http-equiv="Pragma" content="no-cache" />
         <meta http-equiv="Expires" content="0" />
         <title><sitemesh:write property='title' /></title>
-        <script src="${stc}/lib/mobile/vue/dist/vue.js"></script>
+        <script src="${stc}/lib/mobile/vue/dist/vue.min.js"></script>
         <script src="${stc}/lib/mobile/vue-router/dist/vue-router.min.js"></script>
         <script src="${stc}/lib/mobile/vue-infinite-scroll/dist/vue-infinite-scroll.js"></script>
         <script src="${stc}/lib/mobile/vue-awesome-swiper/dist/vue-awesome-swiper.min.js"></script>
