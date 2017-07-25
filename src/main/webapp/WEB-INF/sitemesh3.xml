@@ -2,5 +2,6 @@
 <!DOCTYPE xml>
 <sitemesh>
     <!--<mapping path="web/win/*" decorator="/WEB-INF/layout/default_win.jsp" />-->
-    <mapping path="*" decorator="/WEB-INF/layout/default.jsp" />
+    <mapping path="*/admin/*" decorator="/WEB-INF/layout/default.jsp" />
+    <mapping path="*/mobile/*" decorator="/WEB-INF/layout/default.jsp" />
 </sitemesh>
