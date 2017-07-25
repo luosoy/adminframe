@@ -40,7 +40,7 @@
         </script>
         <sitemesh:write property='head'></sitemesh:write>
     </head>
-    <body class="hold-transition skin-blue sidebar-mini" data>
+    <body class="hold-transition skin-blue sidebar-mini">
         <!-- Site wrapper -->
         <div class="wrapper">
             <header class="main-header">
