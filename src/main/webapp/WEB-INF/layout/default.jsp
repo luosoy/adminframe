@@ -297,43 +297,6 @@
                  <!-- Tab panes -->
                  <div class="tab-content">
                      <div id="control-sidebar-theme-options-tab" class="tab-pane active">
-                          <h4 class="control-sidebar-heading">布局设置</h4>
-                          <div class="form-group">
-                                <label class="control-sidebar-subheading">
-                                    <input type="checkbox" data-layout="fixed" class="pull-right">固定布局
-                                </label>
-                                <p>激活固定布局。不能同时使用固定和自适应布局。</p>
-                            </div>
-                            <div class="form-group">
-                                <label class="control-sidebar-subheading">
-                                    <input type="checkbox" data-layout="layout-boxed" class="pull-right">自适应布局
-                                </label>
-                                <p>激活自适应布局</p>
-                            </div>
-                            <div class="form-group">
-                                <label class="control-sidebar-subheading">
-                                    <input type="checkbox" data-layout="sidebar-collapse" class="pull-right">切换左侧边栏
-                                </label>
-                                <p>切换左侧边栏的状态（打开或折叠）</p>
-                            </div>
-                            <div class="form-group">
-                                <label class="control-sidebar-subheading">
-                                    <input type="checkbox" data-enable="expandOnHover" class="pull-right">左侧边栏展开悬停
-                                </label>
-                                <p>让左侧边栏微扩展悬停</p>
-                            </div>
-                            <div class="form-group">
-                                <label class="control-sidebar-subheading">
-                                    <input type="checkbox" data-controlsidebar="control-sidebar-open" class="pull-right">切换右侧边栏
-                                </label>
-                                <p>切换右侧边栏切换</p>
-                            </div>
-                            <div class="form-group">
-                                <label class="control-sidebar-subheading">
-                                    <input type="checkbox" data-sidebarskin="toggle" class="pull-right">切换右边栏皮肤
-                                </label>
-                                <p>切换右边栏皮肤黑或者白</p>
-                            </div>
                             <h4 class="control-sidebar-heading">皮肤设置</h4>
                             <ul class="list-unstyled clearfix">
                                 <li style="float:left; width: 33.33333%; padding: 5px;">
@@ -495,6 +458,43 @@
                                     <p class="text-center no-margin" style="font-size: 12px">黄白色</p>
                                 </li>
                             </ul>
+                            <h4 class="control-sidebar-heading">布局设置</h4>
+                            <div class="form-group">
+                                <label class="control-sidebar-subheading">
+                                    <input type="checkbox" data-layout="fixed" class="pull-right">固定布局
+                                </label>
+                                <p>激活固定布局。不能同时使用固定和自适应布局。</p>
+                            </div>
+                            <div class="form-group">
+                                <label class="control-sidebar-subheading">
+                                    <input type="checkbox" data-layout="layout-boxed" class="pull-right">自适应布局
+                                </label>
+                                <p>激活自适应布局</p>
+                            </div>
+                            <div class="form-group">
+                                <label class="control-sidebar-subheading">
+                                    <input type="checkbox" data-layout="sidebar-collapse" class="pull-right">切换左侧边栏
+                                </label>
+                                <p>切换左侧边栏的状态（打开或折叠）</p>
+                            </div>
+                            <div class="form-group">
+                                <label class="control-sidebar-subheading">
+                                    <input type="checkbox" data-enable="expandOnHover" class="pull-right">左侧边栏展开悬停
+                                </label>
+                                <p>让左侧边栏微扩展悬停</p>
+                            </div>
+                            <div class="form-group">
+                                <label class="control-sidebar-subheading">
+                                    <input type="checkbox" data-controlsidebar="control-sidebar-open" class="pull-right">切换右侧边栏
+                                </label>
+                                <p>切换右侧边栏切换</p>
+                            </div>
+                            <div class="form-group">
+                                <label class="control-sidebar-subheading">
+                                    <input type="checkbox" data-sidebarskin="toggle" class="pull-right">切换右边栏皮肤
+                                </label>
+                                <p>切换右边栏皮肤黑或者白</p>
+                            </div>
                      </div>
                  </div>
             </aside>
