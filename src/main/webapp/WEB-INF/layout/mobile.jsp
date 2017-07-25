@@ -12,7 +12,7 @@
         <meta http-equiv="Pragma" content="no-cache" />
         <meta http-equiv="Expires" content="0" />
         <title><sitemesh:write property='title' /></title>
-        <link rel="stylesheet" href="${stc}/lib/mobile/animate/animate.css"/>
+        <link rel="stylesheet" href="${stc}/lib/mobile/animate/animate.min.css"/>
         <script src="${stc}/lib/mobile/vue/dist/vue.min.js"></script>
         <script src="${stc}/lib/mobile/vuex/dist/vuex.min.js"></script>
         <script src="${stc}/lib/mobile/vue-router/dist/vue-router.min.js"></script>
