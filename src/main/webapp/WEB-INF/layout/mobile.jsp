@@ -16,6 +16,8 @@
         <script src="${stc}/lib/mobile/vue-router/dist/vue-router.min.js"></script>
         <script src="${stc}/lib/mobile/vue-infinite-scroll/dist/vue-infinite-scroll.js"></script>
         <script src="${stc}/lib/mobile/vue-awesome-swiper/dist/vue-awesome-swiper.min.js"></script>
+        <script src="${stc}/lib/mobile/moment/min/moment.min.js"></script>
+        <script src="${stc}/lib/mobile/moment/local/zh-cn.js"></script>
         <script src="${stc}/lib/mobile/vue-resource/dist/vue-resource.min.js"></script>
         <script src="${stc}/lib/mobile/fastclick/lib/fastclick.js"></script>
         <script type="text/javascript">
