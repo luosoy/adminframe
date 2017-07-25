@@ -20,6 +20,7 @@
         <script src="${stc}/lib/mobile/moment/local/zh-cn.js"></script>
         <script src="${stc}/lib/mobile/vue-resource/dist/vue-resource.min.js"></script>
         <script src="${stc}/lib/mobile/fastclick/lib/fastclick.js"></script>
+        <script src="${stc}/lib/mobile/underscore/underscore-min.js"></script>
         <script type="text/javascript">
             var SYS = {
                 ctx: '${ctx}',
