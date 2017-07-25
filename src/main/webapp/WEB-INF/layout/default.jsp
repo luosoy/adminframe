@@ -45,7 +45,7 @@
         <div class="wrapper">
             <header class="main-header">
                 <!-- Logo -->
-                <a href="${ctx}/web/main/index" class="logo">
+                <a href="${ctx}/web/admin/index" class="logo">
                     <!-- mini logo for sidebar mini 50x50 pixels -->
                     <span class="logo-mini"><b>管理</b></span>
                     <!-- logo for regular state and mobile devices -->
@@ -106,7 +106,7 @@
                     <ul class="sidebar-menu" data-widget="tree">
                         <li class="header">菜单</li>
                         <li class="treeview active">
-                            <a href="${ctx}/web/main/index">
+                            <a href="${ctx}/web/admin/index">
                                 <i class="fa fa-dashboard"></i> <span>控制台</span>
 <!--                                <span class="pull-right-container">
                                     <i class="fa fa-angle-left pull-right"></i>
@@ -292,7 +292,7 @@
             <aside class="control-sidebar control-sidebar-dark">
                  <!-- Create the tabs -->
                 <ul class="nav nav-tabs nav-justified control-sidebar-tabs">
-                    <li class="active"><a href="#control-sidebar-theme-options-tab" data-toggle="tab"><i class="fa fa-wrench"></i></a></li>
+                    <li class="active"><a href="#control-sidebar-theme-options-tab" data-toggle="tab"><i class="fa fa-gears"></i></a></li>
                 </ul>
                  <!-- Tab panes -->
                  <div class="tab-content">
