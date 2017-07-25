@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.luosoy.main.controller;
+package com.luosoy.admin.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
@@ -15,8 +15,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
  * @version 1.0
  */
 @Controller
-@RequestMapping("/main")
-public class MainController {
+@RequestMapping("/admin")
+public class AdminController {
 
     @RequestMapping("/index")
     private String index(Model model) {
