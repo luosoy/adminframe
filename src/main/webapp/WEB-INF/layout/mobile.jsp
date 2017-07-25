@@ -12,10 +12,12 @@
         <meta http-equiv="Pragma" content="no-cache" />
         <meta http-equiv="Expires" content="0" />
         <title><sitemesh:write property='title' /></title>
-        <link rel="stylesheet" href="${stc}/lib/mobile/vue-swipe/dist/vue-swipe.css"/>
         <script src="${stc}/lib/mobile/vue/dist/vue.js"></script>
+        <script src="${stc}/lib/mobile/vue-router/dist/vue-router.min.js"></script>
         <script src="${stc}/lib/mobile/vue-infinite-scroll/dist/vue-infinite-scroll.js"></script>
-        <script src="${stc}/lib/mobile/vue-swipe/dist/vue-swipe.js"></script>
+        <script src="${stc}/lib/mobile/vue-awesome-swiper/dist/vue-awesome-swiper.min.js"></script>
+        <script src="${stc}/lib/mobile/vue-resource/dist/vue-resource.min.js"></script>
+        <script src="${stc}/lib/mobile/fastclick/lib/fastclick.js"></script>
         <script type="text/javascript">
             var SYS = {
                 ctx: '${ctx}',
